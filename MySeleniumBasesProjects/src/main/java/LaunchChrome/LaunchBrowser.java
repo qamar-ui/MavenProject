@@ -18,10 +18,14 @@ public class LaunchBrowser {
 		 s=driver.getTitle();
 		 
 		 if (s=="Google")
+		 {
 			 System.out.println("Test case passed");
+		 }
 		 else
+		 {
 			 System.out.println("Test case failed");
 	}
 
+}
 }
 

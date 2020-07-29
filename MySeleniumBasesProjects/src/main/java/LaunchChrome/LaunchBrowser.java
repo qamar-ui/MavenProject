@@ -17,7 +17,7 @@ public class LaunchBrowser {
 		 System.out.println(driver.getTitle());
 		 s=driver.getTitle();
 		 
-		 if (s=="Google")
+		 if (s=="Gogle")
 		 {
 			 System.out.println("Test case passed");
 		 }
